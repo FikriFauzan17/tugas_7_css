@@ -1,0 +1,23 @@
+body{
+  background-image: url("candi_borobudur.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+p.justify{
+  width: 600px;
+  height: 400px;
+  border:2px solid red ;
+  text-align: justify;
+  margin: 0 auto;
+  background: url("avocado.jpg") repeat;
+}
+.repeat{
+  width: 600px;
+  height: 400px;
+  border:2px solid red ;
+  text-align: justify;
+  margin: 0 auto;
+  background: url("avocado.jpg") repeat-x;
+}
